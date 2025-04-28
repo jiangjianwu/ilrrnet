@@ -1,6 +1,5 @@
 torch
 torchvision
-logging
 Pillow
 numpy
 scipy

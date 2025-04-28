@@ -1,6 +1,6 @@
 """
 Training Script of Indoor Context Understanding | 语义分割 + 布局合理度识别
-Date: 2023.11.28
+Date: 2025.04.28
 Author: fengbuxi@glut.edu.cn
 """
 import os
